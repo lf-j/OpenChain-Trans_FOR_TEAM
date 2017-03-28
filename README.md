@@ -45,15 +45,22 @@ Japanese Translation of LF OpenChain docs using OmegaT
   
 4．　翻訳方針と免責事項
 
-  ・　翻訳は公式の英語版に基づいていなければならない
+  ・　翻訳作業に当たってはOpenChainプロジェクトの翻訳ポリシー（https://wiki.linuxfoundation.org/openchain/spec-translations）
+に則るものとする
   
   ・　翻訳には免責事項として以下の文言を入れる；
   
 　　
-　　　「本文書は、The Linux Foundationのオープンソース コンプライアンス プロジェクトOpenChainの英語文書から翻訳された公式の翻訳版となります。翻訳版と英語版との間で何らかの意味の違いがあった場合には、英語版が優先されます。
+　　　「本文書は、The Linux FoundationのOpenChainプロジェクトの英語文書から翻訳された公式の翻訳版です。翻訳版と英語版との間で何らかの意味の違いがあった場合には、英語版が優先されます。
    
    
-   また、OpenChainは世界中のメンバー企業が参加するプロジェクトではありますが、資料の細部では必ずしも各国の法令を検討していない可能性もあります。本翻訳資料を日本で活用する際には、各企業の法務部門を加えた検討が不可欠です。」
+   また、OpenChainは世界中のメンバー企業が参加するプロジェクトではありますが、資料の細部では必ずしも各国の法令を検討していない可能性もあります。本翻訳資料を日本で活用する際には、各企業の法務部門を加えた検討が不可欠です。
+   
+   
+   “This is an official translation from the OpenChain Project.
+It has been translated from the original English text.
+In the event there is confusion between a translation　and the English version, The English text shall take precedence.”
+   」
    
 　
 　　
