@@ -27,7 +27,7 @@ deliver	デリバリされる	デリバリされる→ITサービス系の用語
 deliver	やりとりする	やりとりする→ちょっと意訳
 collateral	付随事項	意味：派生事項的な意味。以下から→http://www.dictionary.com/browse/collateral?s=t
 qualitｙ	属性
-verification artifacts	検証対象	ここは意訳なので、要議論
+verification artifacts	検証すべき証跡	議論の結果いったんここに落ち着かせる。
 free and open source software	フリー/オープンソース ソフトウェア
 Open Source Initiative	オープンソース イニシアティブ	団体名（固有名詞）
 Free Software Foundation	フリーソフトウェア ファウンデーション	団体の固有名称につきそのままカタカナ表記する。
@@ -47,7 +47,7 @@ third party	第三者	文脈によっては日本語で表記
 requirements	要件	要件定義など。単に「要件」だと流れが悪い場合などは「満たすべき要件」などと表現を工夫する。
 know	知っている、理解している
 as a minimum	最低でも	as a minimum
-Verification Artifact(s)	確証として必要なもの、確証となるもの、証跡となるもの	※要議論。証跡とか成果物とかいろいろ出ている
+Verification Artifact(s)	検証すべき証跡	※確証として必要なもの、確証となるもの、証跡となるものといった意味。議論後本用語に統一。
 rationale	論理的根拠、論拠、そうした理由
 law	法律、法令、法規	法律＜法令＜法規、と意味に広がりがある。法律→国会で決議される国法レベル、法令→国会が制定する法律及び国の行政機関が制定する命令を合わせる、法規→最も広い意味での法規範一般
 pertain	付随する、関連する

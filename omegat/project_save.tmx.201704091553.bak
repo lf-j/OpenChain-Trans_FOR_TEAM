@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>**Please Translate Here.** This is an official translation from the OpenChain Project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T065010Z" creationid="maabou" creationdate="20170409T064624Z">
+        <seg>本文書は、The Linux FoundationのOpenChainプロジェクトの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A description of the SPDX specification can be found at ww.spdx.org.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170320T140400Z" creationid="maabou" creationdate="20170308T061223Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170320T134644Z" creationid="maabou" creationdate="20170314T011211Z">
         <seg> 供給ソフトウェアに含まれる全てのFOSSコンポーネント（およびそれらそれぞれの確認済みライセンス）を特定し、追跡し、リストとして保管するプロセスが存在すること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A process has been implemented that is capable of addressing the typical FOSS use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T202746Z" creationid="maabou" creationdate="20170316T202746Z">
+        <seg>典型的なFOSSの</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +258,14 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170320T140352Z" creationid="maabou" creationdate="20170307T203633Z">
         <seg>組織によっては、ソフトウェア開発者、リリースエンジニア、品質管理技術者、プロダクトマーケティング担当者やプロダクト管理者が含まれる場合がありますが、この限りではありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disclaimer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T064829Z" creationid="maabou" creationdate="20170409T064829Z">
+        <seg>免責事項（Disclaimer）</seg>
       </tuv>
     </tu>
     <tu>
@@ -505,6 +529,14 @@ tani:2.2.2項については具体的イメージがほしい</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the event there is confusion between a translation and the English version, The English text shall take precedence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T065108Z" creationid="maabou" creationdate="20170409T065108Z">
+        <seg>翻訳版と英語版との間で何らかの意味の違いがあった場合には、英語版が優先されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the situation where contributions are not permitted at all, a policy should exist making that position clear.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170320T134742Z" creationid="maabou" creationdate="20170320T025830Z">
@@ -549,6 +581,14 @@ tani:2.2.2項については具体的イメージがほしい</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170320T125725Z" creationid="maabou" creationdate="20170307T093145Z">
         <seg>ミッション: フリー/オープンソース ソフトウェア(FOSS)の効果的マネジメントを実現するための 要件 をソフトウェア サプライチェーンに参加する人たちのために確立すること。こういった要件や関連する付随事項は、オープンに、ソフトウェア・サプライチェーン、オープンソース ・コミュニティやアカデミア（学術研究機関）の関係者それぞれがオープンに協働しながら開発を進めていきます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mission: Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T064345Z" creationid="maabou" creationdate="20170409T064345Z">
+        <seg>FOSSの効果的マネジメントを実現するための要件をソフトウェア サプライチェーンに参加する人々のために確立すること。このような要件やそれらに関連する付帯事項については、ソフトウェア サプライチェーン、オープンソース コミュニティ、および学術研究機関の代表者らがオープンに協働しながら開発を進める。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -871,6 +911,14 @@ tani:Specificallyとin generalで対比している？</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To ensure that if an organization declares that it has a program that is OpenChain Conforming,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T061312Z" creationid="maabou" creationdate="20170320T061312Z">
+        <seg>組織がOpenChainに適合しているプログラムを有していることを宣言した場合に、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To ensure that if an organization declares that it has a program that is OpenChain Conforming, that such program has met all the requirements of this specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170320T134806Z" creationid="maabou" creationdate="20170320T061557Z">
@@ -965,6 +1013,14 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170320T134752Z" creationid="maabou" creationdate="20170320T033846Z">
         <seg> コミュニティに係る積極的関与と相互交流、およびプロジェクトの行動規範（Code of Conduct ）もしくはそれに同等のものを含む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contains FOSS or other software under an incompatible license interacting with other</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T045415Z" creationid="maabou" creationdate="20170316T045415Z">
+        <seg>FOSSもしくは互換性</seg>
       </tuv>
     </tu>
     <tu>
