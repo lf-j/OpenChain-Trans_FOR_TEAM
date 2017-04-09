@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T200047Z" creationid="maabou" creationdate="20170308T205415Z">
-        <seg>すべてのソフトウェア スタッフが（トレーニングや社内wiki、その他実践的なコミュニケーションを通じて）FOSSポリシーの存在を知ることのできる文書化された手続きが存在する。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T192449Z" creationid="maabou" creationdate="20170308T205415Z">
+        <seg>すべてのソフトウェアスタッフに（トレーニングや社内wiki、その他実践的なコミュニケーションを通じ）FOSSポリシーの存在を知らせる、文書化された手続きの存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -617,8 +617,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Mission: Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T200840Z" creationid="maabou" creationdate="20170409T064345Z">
-        <seg>ミッション：FOSSの効果的マネジメントを実現するための要件をソフトウェア サプライチェーンに参加する人々のために確立すること。このような要件やそれらに関連する付帯事項については、ソフトウェア サプライチェーン、オープンソース コミュニティ、および学術研究機関の代表者らがオープンに協働しながら開発を進める。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T064345Z" creationid="maabou" creationdate="20170409T064345Z">
+        <seg>FOSSの効果的マネジメントを実現するための要件をソフトウェア サプライチェーンに参加する人々のために確立すること。このような要件やそれらに関連する付帯事項については、ソフトウェア サプライチェーン、オープンソース コミュニティ、および学術研究機関の代表者らがオープンに協働しながら開発を進める。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -751,8 +751,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Software Staff - any employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T201059Z" creationid="maabou" creationdate="20170307T130606Z">
-        <seg>ソフトウェア スタッフ－供給ソフトウェアについて、創り、コントリビュートし、もしくは使えるよう準備する責任をもつ従業員や契約者のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T095015Z" creationid="maabou" creationdate="20170307T130606Z">
+        <seg>ソフトウェア スタッフ－供給ソフトウェアについて、創り出し、コントリビュートし、もしくは使えるよう準備する責任をもつ従業員や契約者のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,8 +874,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain Conforming.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T200927Z" creationid="maabou" creationdate="20170307T093320Z">
-        <seg>本要件は、そのコンプライアンス プログラムがOpenChainに適合しているとみなされるために満足しなければならない基本レベル（最低限）の要件一式を提示するものです。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T195609Z" creationid="maabou" creationdate="20170307T093320Z">
+        <seg>本要件は、そのコンプライアンス プログラムがOpenChainに適合しているとみなされるために満足しなければならない基本レベル（最低限）の要件一式を提示するものです。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,8 +1018,8 @@ http://download-c.huawei.com/download/downloadCenter?downloadId=18144
       <tuv lang="EN-US">
         <seg>Vision: A software supply chain where free/open source software (FOSS) is delivered with trusted and consistent compliance information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T200834Z" creationid="maabou" creationdate="20170307T093122Z">
-        <seg>ビジョン： フリー/オープンソース ソフトウェア（FOSS）が、信頼性と一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T195425Z" creationid="maabou" creationdate="20170307T093122Z">
+        <seg>ビジョン： フリー/オープンソース ソフトウェア（FOSS）が、信頼性と一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること  。</seg>
       </tuv>
     </tu>
     <tu>

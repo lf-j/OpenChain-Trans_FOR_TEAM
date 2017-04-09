@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T192449Z" creationid="maabou" creationdate="20170308T205415Z">
-        <seg>すべてのソフトウェアスタッフに（トレーニングや社内wiki、その他実践的なコミュニケーションを通じ）FOSSポリシーの存在を知らせる、文書化された手続きの存在</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T200047Z" creationid="maabou" creationdate="20170308T205415Z">
+        <seg>すべてのソフトウェア スタッフが（トレーニングや社内wiki、その他実践的なコミュニケーションを通じて）FOSSポリシーの存在を知ることのできる文書化された手続きが存在する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -145,8 +145,8 @@
       <tuv lang="EN-US">
         <seg>A study group was formed to consider whether a standard program specification could be created that would: i) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T070818Z" creationid="maabou" creationdate="20170307T092921Z">
-        <seg>こういった背景から、標準的なプログラムの仕様というものを整備することができるかどうか検討する調査グループが形成されました。これは、i) 産業横断的に共有されるオープンソース コンプライアンスに係る情報の品質と一貫性向上を促進し；  ii)コンプライアンス作業の再実施に起因する、オープンソースに関連するトランザクションコストを低減することを見据えています。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T195310Z" creationid="maabou" creationdate="20170307T092921Z">
+        <seg>こういった背景から、標準的なコンプライアンス プログラムの仕様書を整備することができるかどうかを検討する研究グループが形成されました。この仕様書は、i) 業界全体で共有されるオープンソース コンプライアンス関連情報の品質と一貫性の向上促進、および、ii) コンプライアンス作業の再実施に起因するオープンソース関連の作業コストの低減、を実現するものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -189,8 +189,8 @@
       <tuv lang="EN-US">
         <seg>As a consequence, at each tier of the supply chain, downstream organizations were frequently redoing the compliance work already performed by other upstream organizations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T062827Z" creationid="maabou" creationdate="20170307T092832Z">
-        <seg>その結果、サプライチェーンのそれぞれの段階において、上流側組織で既に実施したコンプライアンス業務が下流組織で再び実施されていました。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T195131Z" creationid="maabou" creationdate="20170307T092832Z">
+        <seg>そしてその結果、サプライチェーンの各段階で、上流側組織が既に実行したコンプライアンス業務を下流側組織が頻繁に再実行していました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -601,8 +601,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Mission: Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T064345Z" creationid="maabou" creationdate="20170409T064345Z">
-        <seg>FOSSの効果的マネジメントを実現するための要件をソフトウェア サプライチェーンに参加する人々のために確立すること。このような要件やそれらに関連する付帯事項については、ソフトウェア サプライチェーン、オープンソース コミュニティ、および学術研究機関の代表者らがオープンに協働しながら開発を進める。.</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T200840Z" creationid="maabou" creationdate="20170409T064345Z">
+        <seg>ミッション：FOSSの効果的マネジメントを実現するための要件をソフトウェア サプライチェーンに参加する人々のために確立すること。このような要件やそれらに関連する付帯事項については、ソフトウェア サプライチェーン、オープンソース コミュニティ、および学術研究機関の代表者らがオープンに協働しながら開発を進める。</seg>
       </tuv>
     </tu>
     <tu>
@@ -727,8 +727,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Software Staff - any employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T095015Z" creationid="maabou" creationdate="20170307T130606Z">
-        <seg>ソフトウェア スタッフ－供給ソフトウェアについて、創り出し、コントリビュートし、もしくは使えるよう準備する責任をもつ従業員や契約者のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T201059Z" creationid="maabou" creationdate="20170307T130606Z">
+        <seg>ソフトウェア スタッフ－供給ソフトウェアについて、創り、コントリビュートし、もしくは使えるよう準備する責任をもつ従業員や契約者のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -793,16 +793,16 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organizations with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T063040Z" creationid="maabou" creationdate="20170307T092358Z">
-        <seg>OpenChain イニシアチブがスタートした2013年、この年ソフトウェア サプライチェーンでオープンソースを活用していた実践者たちは、表面化してきている2つのパターンを観測していました：1) 成熟したオープンソース コンプライアンス プログラムを持つ組織において、そのプロセスに意味ありげな類似性があったこと； 2)一方でいまだ多くの組織においてソフトウェアのやり取りするためのプログラムが非先進的なものだったこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T195026Z" creationid="maabou" creationdate="20170307T092358Z">
+        <seg>OpenChain イニシアチブは2013年に開始されました。当時ソフトウェア サプライチェーンでオープンソースを活用していた実務者グループは、オープンソース コンプライアンスに関して2つのパターンを見出していました。それは、1) 成熟したオープンソース コンプライアンス プログラムを持つ組織のプロセスには顕著な類似性があること、および、2) いまだに多くの組織が遅れたコンプライアンス プログラムでソフトウェアをやりとりしていること、です。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The Vision and Mission of the OpenChain Initiative are as follows:</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T063216Z" creationid="maabou" creationdate="20170307T093105Z">
-        <seg>OpenChain イニシアチブのビジョンとミッションは以下のとおりです：</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T195351Z" creationid="maabou" creationdate="20170307T093105Z">
+        <seg>OpenChainイニシアチブのビジョンとミッションは以下のとおりです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -817,8 +817,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The latter observation resulted in a lack of trust in the consistency and quality of the compliance artifacts accompanying the software being exchanged.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T135943Z" creationid="maabou" creationdate="20170307T092756Z">
-        <seg>後者の観測では、ソフトウェアのやり取りで付随する、コンプライアンス関連生成物の一貫性や品質について信頼を喪失させる事態を引き起こし、</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T195143Z" creationid="maabou" creationdate="20170307T092756Z">
+        <seg>後者の実態は、やりとりするソフトウェアに付随したコンプライアンス関連資料の一貫性や品質に対する信頼を喪失させました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,7 +850,7 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain Conforming.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T071456Z" creationid="maabou" creationdate="20170307T093320Z">
+      <tuv lang="JA" changeid="maabou" changedate="20170409T200927Z" creationid="maabou" creationdate="20170307T093320Z">
         <seg>本要件は、そのコンプライアンス プログラムがOpenChainに適合しているとみなされるために満足しなければならない基本レベル（最低限）の要件一式を提示するものです。</seg>
       </tuv>
     </tu>
@@ -867,16 +867,16 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The specification is licensed under the Creative Commons Attribution License 4.0 (CC-BY-4.0).</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T070458Z" creationid="maabou" creationdate="20170409T065842Z">
-        <seg>本仕様書の利用は、Creative Commons Attribution License 4.0ライセンスにもとづき許諾されます。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T194719Z" creationid="maabou" creationdate="20170409T065842Z">
+        <seg>本仕様書の利用は、Creative Commons Attribution License 4.0ライセンスに基づき許諾されます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The study group evolved into a work group, and in April 2016, formally organized as a Linux Foundation collaborative project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T063146Z" creationid="maabou" creationdate="20170307T092936Z">
-        <seg>本研究グループは、ワーキンググループへと発展し、のち2016年4月 、正式にThe Linux Foundationのコラボレーティブ・プロジェクトとして組織されることとなりました。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T195332Z" creationid="maabou" creationdate="20170307T092936Z">
+        <seg>本調査グループはワーキング グループへと発展し、その後2016年4月に正式にThe Linux Foundationの協業プロジェクトとして組織されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,8 +986,8 @@ http://download-c.huawei.com/download/downloadCenter?downloadId=18144
       <tuv lang="EN-US">
         <seg>Vision: A software supply chain where free/open source software (FOSS) is delivered with trusted and consistent compliance information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T070850Z" creationid="maabou" creationdate="20170307T093122Z">
-        <seg>ビジョン： フリー/オープンソース ソフトウェア(FOSS)が、信頼でき一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T200834Z" creationid="maabou" creationdate="20170307T093122Z">
+        <seg>ビジョン： フリー/オープンソース ソフトウェア（FOSS）が、信頼性と一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること。</seg>
       </tuv>
     </tu>
     <tu>
