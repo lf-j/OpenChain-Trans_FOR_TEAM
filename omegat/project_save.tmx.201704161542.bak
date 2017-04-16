@@ -678,8 +678,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Provided the FOSS contribution policy permits contributions, a documented procedure exists that describes the FOSS contribution process.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T074646Z" creationid="maabou" creationdate="20170320T041718Z">
-        <seg>FOSSコントリビューション ポリシーがコントリビューションを許容するものである場合、FOSSコントリビューションのプロセスを記載した手続きが文書化されている。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T193615Z" creationid="maabou" creationdate="20170320T041718Z">
+        <seg>FOSSコントリビューション ポリシーがコントリビューションを許容するものである場合、FOSSコントリビューションのプロセスを記載した手続きの文書が存在する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,8 +1104,8 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
       <tuv lang="EN-US">
         <seg>contains FOSS with attribution requirements</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T075323Z" creationid="maabou" creationdate="20170316T051122Z">
-        <seg>帰属要求（Attribution requirement）のあるFOSSを含んでいる</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T134702Z" creationid="maabou" creationdate="20170316T051122Z">
+        <seg> 帰属要求のあるFOSSを含んでいる</seg>
       </tuv>
     </tu>
     <tu>
