@@ -752,8 +752,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Software Staff - any employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T201059Z" creationid="maabou" creationdate="20170307T130606Z">
-        <seg>ソフトウェア スタッフ－供給ソフトウェアについて、創り、コントリビュートし、もしくは使えるよう準備する責任をもつ従業員や契約者のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170417T200252Z" creationid="maabou" creationdate="20170307T130606Z">
+        <seg>ソフトウェア スタッフ－供給ソフトウェアについて、定義し、コントリビュートし、もしくは使えるよう準備する責任をもつ従業員や契約者のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -900,8 +900,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The study group evolved into a work group, and in April 2016, formally organized as a Linux Foundation collaborative project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T195332Z" creationid="maabou" creationdate="20170307T092936Z">
-        <seg>本調査グループはワーキング グループへと発展し、その後2016年4月に正式にThe Linux Foundationの協業プロジェクトとして組織されました。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170417T200220Z" creationid="maabou" creationdate="20170307T092936Z">
+        <seg>本グループはワーキング グループへと発展し、その後2016年4月に正式にThe Linux Foundationの協業プロジェクトとして組織されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,8 +1104,8 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
       <tuv lang="EN-US">
         <seg>contains FOSS with attribution requirements</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T075205Z" creationid="maabou" creationdate="20170316T051122Z">
-        <seg> 帰属要求（Attribution requirement）のあるFOSSを含んでいる</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170416T075323Z" creationid="maabou" creationdate="20170316T051122Z">
+        <seg>帰属要求（Attribution requirement）のあるFOSSを含んでいる</seg>
       </tuv>
     </tu>
     <tu>
