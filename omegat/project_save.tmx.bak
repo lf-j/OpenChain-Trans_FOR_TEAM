@@ -161,8 +161,8 @@
       <tuv lang="EN-US">
         <seg>A test may be used to allow Software Staff to satisfy the training requirement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T131042Z" creationid="maabou" creationdate="20170310T234703Z">
-        <seg> そのトレーニング要件を満足させるために、ソフトウェアスタッフに対して試験を実施することができます。ソフトウェア スタッフがトレーニング要件を満たしていることを認めるために試験を実施する場合もある。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170417T200432Z" creationid="maabou" creationdate="20170310T234703Z">
+        <seg>ソフトウェア スタッフがトレーニング要件を満たしていることを認めるために試験を実施する場合もある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -629,16 +629,16 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Name of persons, group or function in FOSS Compliance role(s) identified.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T135142Z" creationid="maabou" creationdate="20170312T211220Z">
-        <seg>FOSSコンプライアンスの役割おける特定の個人名、グループ名もしくは機能名；FOSSコンプライアンスの履行担当者名、グループ名または役割名称が特定できる。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170417T200450Z" creationid="maabou" creationdate="20170312T211220Z">
+        <seg>FOSSコンプライアンスの履行担当者名、グループ名または役割名称が特定できる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>OpenChain Conformance Specification</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T091622Z" creationid="maabou" creationdate="20170307T091622Z">
-        <seg>Openchain 適合仕様書</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170417T201729Z" creationid="maabou" creationdate="20170307T091622Z">
+        <seg>OpenChain 適合仕様書</seg>
       </tuv>
     </tu>
     <tu>

@@ -380,8 +380,8 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>FOSS (Free and Open Source Software) - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T093413Z" creationid="maabou" creationdate="20170307T123125Z">
-        <seg>FOSS (フリー/オープンソース ソフトウェア)－Open Source Initiative（OpenSource.org）によって公開されているオープンソースの定義や（Free Software Foundationによって公開されている） フリー ソフトウェアの定義に該当もしくはそれに類似したライセンスの、1つもしくはそれ以上に従うソフトウェアのこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170417T202633Z" creationid="maabou" creationdate="20170307T123125Z">
+        <seg>FOSS（フリー/オープンソース ソフトウェア）－Open Source Initiative（OpenSource.org）によって公開されているオープンソースの定義や（Free Software Foundationによって公開されている） フリー ソフトウェアの定義に該当もしくはそれに類似したライセンスの、1つもしくはそれ以上に従うソフトウェアのこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -637,8 +637,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>OpenChain Conformance Specification</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T091622Z" creationid="maabou" creationdate="20170307T091622Z">
-        <seg>Openchain 適合仕様書</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170417T201729Z" creationid="maabou" creationdate="20170307T091622Z">
+        <seg>OpenChain 適合仕様書</seg>
       </tuv>
     </tu>
     <tu>
