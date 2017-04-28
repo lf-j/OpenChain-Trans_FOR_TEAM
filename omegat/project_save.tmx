@@ -287,6 +287,14 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Curriculum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20170324T000132Z" creationid="Takashi　Kunai" creationdate="20170324T000132Z">
+        <seg>カリキュラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Definitions</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093557Z" creationid="maabou" creationdate="20170307T093557Z">
