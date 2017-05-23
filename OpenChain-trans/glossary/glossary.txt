@@ -103,7 +103,6 @@ might	～してもよい、～かもしれない	法律用語では「～する�
 consideration	考慮、意見、判断など
 engagement	（積極的な）参加、関与
 nevertheless	～にも関わらず
-ｃertify	証明する、認定する、保証する
 certify	証明する、保証する、認定する
 allow 	～させる
 deck	資料	slide deckなどと使用する
@@ -122,7 +121,7 @@ incentivize	やる気を起こさせる、奨励する
 limited monopoly	限定された独占権	「限定」は、期間など
 mark	標識、記号、目印
 placeholder	仮置き、後になって実際の文字や数字などが表れる場所を示すもの
- overview	概観、概説
+overview	概観、概説
 big picture	全体像
 literary	著述の、文学の、文芸の	文芸として広く捉える場合と、著述や文学として狭く捉える場合がありレベルに差がある
 entity	実体
