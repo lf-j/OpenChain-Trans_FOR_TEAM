@@ -1,12 +1,8 @@
-# OpenChain
-Japanese Translation of LF OpenChain docs using OmegaT
+本リポジトリは、OpenChainの日本語翻訳に共通的に関連する、情報をメンテナンス、保管するために用います。
+現時点は以下情報があります：
 
+（１）Glossary:翻訳メモリツールであるOmegaTの用語ファイル（glossary.txt）を最新に保ちます。翻訳の際にはこちらを落として活用ください。
+（２）Manuals：ツールのセッティングなど翻訳者に必要な作業手順書などを保存します。
+（３）Meeting：打ち合わせの記録などを保存します。
 
-本プロジェクトでは、The Linux Foundation(LF)が主催するオープンソース コンプライアンス推進プロジェクトOpenChainの主要英文資料を、日本で活動するLF参加企業の貢献者が日本語訳を作成します。翻訳資料を提供することで、日本のあらゆる企業・組織におけるオープンソース コンプライアンスの浸透と普及を目指しています。
-
-
-This repository will be closed soon. Please shift to the following repositries;
-
-https://github.com/OpenChain-Project/Curriculum-Translation-JP
-
-https://github.com/OpenChain-Project/Specification-Translation-JP
+以上
